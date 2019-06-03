@@ -11,19 +11,19 @@ const PROFILES = [{
     },
     {
         id: 2,
-        description: 'linkedin',
+        description: 'github',
         link: 'https://github.com/rajiqxf2/',
         image: profile2
     },
     {
         id: 3,
-        description: 'emailid',
+        description: 'linkedin',
         link: 'https://linkedin.com/in/rajigali',
         image: profile3
     },
     {
         id: 4,
-        description: 'github',
+        description: 'twitter',
         link: 'https://twitter.com/graji2007',
         image: profile4
     }
