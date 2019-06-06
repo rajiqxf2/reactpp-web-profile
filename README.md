@@ -1,16 +1,16 @@
 Initially this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-Setup 
+## Setup 
 
->> npm init -y
+### `npm init -y`
 
->> npm install parcel-bundler@1.10.3 --save
+### `npm install parcel-bundler@1.10.3 --save`
 
->> npm install react@16.6.3 react-dom@16.6.3 --save
+### `npm install react@16.6.3 react-dom@16.6.3 --save`
 
 Need additional plugin for class properties
 
->> npm i @babel/plugin-proposal-class-properties@7.2.3 --save
+### `npm i @babel/plugin-proposal-class-properties@7.2.3 --save`
 
 ## Available Scripts
 
