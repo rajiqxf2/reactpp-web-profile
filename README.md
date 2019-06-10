@@ -1,16 +1,28 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Initially this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
+## Setup 
+
+### `npm init -y`
+
+### `npm install parcel-bundler@1.10.3 --save`
+
+### `npm install react@16.6.3 react-dom@16.6.3 --save`
+
+Need additional plugin for class properties
+
+### `npm i @babel/plugin-proposal-class-properties@7.2.3 --save`
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run dev`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+The page will reload if you make edits.When added as dev dependency will let server load changes to the browser automaticallywhen added as dev dependency will let server load changes to the browser automatically x<br>
+
 
 ### `npm test`
 
